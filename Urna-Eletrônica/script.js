@@ -11,6 +11,7 @@ let numeros = document.querySelector('.d-1-3');
 let etapaAtual = 0;
 let numero = '';
 let votoBranco = false;
+let votos = [];
 
 function começarEtapa() {
     let etapa = etapas[etapaAtual];
@@ -124,10 +125,16 @@ function confirma() {
 
     if(votoBranco === true){
         votoConfirmado = true
-        console.log('confirmando como branco...')
+        votos.push({
+            etapa: etapas[etapaAtual].titulo,
+            voto: 'Branco'
+        });
     }else if(numero.length === etapa.numeros){
         votoConfirmado = true
-        console.log('confirmando como '+ numero)
+        votos.push({
+            etapa: etapas[etapaAtual].titulo,
+            voto: numero
+        });
     }
 
     if(votoConfirmado){
@@ -135,7 +142,8 @@ function confirma() {
         if(etapas[etapaAtual] !== undefined){
             começarEtapa();
         }else{
-            console.log("FIM!")
+            document.querySelector('.tela').innerHTML = `<div class="aviso-grande pisca" style="font-size: 70px; margin-top: 20px; flex: 1; display: flex; justify-content: center; align-items: center"> <strong>FIM!</strong> </div>`
+            console.log(votos)
         }
     }
 }
