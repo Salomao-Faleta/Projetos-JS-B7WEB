@@ -170,7 +170,21 @@ body{
 
 .d-2{
     height: 50px;
-    font-size: 14px;
+    font-size: 13px;
     border-top: 2px solid black;
-    padding-left: 10px;
+    padding-left: 15px;
+}
+
+@media (max-width: 960px){
+    .urna{
+        flex-direction: column;
+    }
+
+    .teclado{
+        margin: auto;
+    }
+
+    .tela{
+        background: linear-gradient(to right, blue, aqua);
+    }
 }
