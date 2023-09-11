@@ -31,7 +31,7 @@ header{
 .slider--width{
     height: 100%;
     display: flex;
-    transition: all 0.3s linear;
+    transition: all .5s linear;
 }
 
 .slider--item{
@@ -39,6 +39,13 @@ header{
     height: inherit;
     background-position: center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: 0px 1px 1px #555;
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.049);
 }
 
 .slider--controls{
