@@ -12,3 +12,9 @@
  ### 2° Projeto: SlideShow
 
  #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/SlideShow/
+
+<br><br>
+
+ ### 3° Projeto: Bateria
+
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/SlideShow/Bateria
