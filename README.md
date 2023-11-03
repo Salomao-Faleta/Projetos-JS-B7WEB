@@ -17,10 +17,10 @@
 
  ### 3° Projeto: Bateria
 
- #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/SlideShow/Bateria
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Bateria
 
  <br><br>
 
  ### 4° Projeto: Relógio
 
- #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/SlideShow/Relógio
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Relogio
