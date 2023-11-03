@@ -23,4 +23,4 @@
 
  ### 4° Projeto: Relógio
 
- #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Relogio
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Projeto2 - Relogio
