@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #333;
+    background: linear-gradient(rgb(43, 43, 185), white);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -61,11 +61,13 @@ h1 {
     font-weight: bold;
     text-align: center;
     padding: 20px;
+    background-color: rgba(0,0,0, 0.5);
 }
 
 .info {
     display: flex;
     width: 100%;
+    background-color: rgba(0,0,0, 0.5);
 }
 .info .temp {
     flex: 1;
@@ -77,16 +79,27 @@ h1 {
 }
 .tempTitulo,
 .ventoTitulo {
-    color: #777;
+    color: #fff;
     font-size: 16px;
     margin-bottom: 5px;
 }
 .tempInfo,
-.ventoInfo {
+.ventoInfo{
     color: #FFF;
     font-size: 30px;
     font-weight: bold;
 }
+
+.tempDesc{
+    color: white;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+
+
 .tempInfo sup {
     font-size: 15px;
     font-weight: normal;
