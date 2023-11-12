@@ -1,11 +1,11 @@
 let questions = [
     {
-        question: 'Em qual elemento HTML nós colocamos o javascript?',
+        question: 'Como depurar código Javascript?',
         options: [
-            'tag js',
-            'tag script',
-            'tag scripting',
-            'tag javascript'
+            'F10',
+            'F12',
+            'F9',
+            'F11'
         ],
         answer: 1
     },
@@ -46,22 +46,22 @@ let questions = [
         answer: 3
     },
     {
-        question: 'Como você cria uma função no Javascript?',
+        question: 'Qual símbolo é usado para inserir comentários em JavaScript?',
         options: [
-            'function:minhaFuncao()',
-            'function = minhaFuncao()',
-            'function minhaFuncao()'
+            '/**/',
+            '// e /**/',
+            '<!----> e //'
         ],
-        answer: 2
+        answer: 1
     },
     {
-        question: 'Como chamar uma função chamada "minhaFuncao"?',
+        question: 'Como saber o tipo da variável?',
         options: [
-            'call minhaFuncao',
-            'call function minhaFuncao',
-            'minhaFuncao()'
+            'type()',
+            'typeof',
+            'gettype'
         ],
-        answer: 2
+        answer: 1
     },
     {
         question: 'Como escrever uma condicional IF no Javascript?',
