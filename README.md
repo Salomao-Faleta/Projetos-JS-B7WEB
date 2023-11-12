@@ -31,3 +31,9 @@
  ### 5° Projeto: Clima
 
  #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Clima
+
+ <br><br>
+
+ ### 6° Projeto: Jogo da Velha
+
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Jogo-da-Velha
