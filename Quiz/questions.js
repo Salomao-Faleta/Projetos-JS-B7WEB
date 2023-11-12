@@ -50,7 +50,7 @@ let questions = [
         options: [
             '/**/',
             '// e /**/',
-            '<!----> e //'
+            '//'
         ],
         answer: 1
     },
