@@ -43,3 +43,9 @@
  ### 7° Projeto: Quadro
 
  #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Quadro
+
+ <br><br>
+
+ ### 8° Projeto: Quiz
+
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Quiz
