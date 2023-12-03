@@ -49,3 +49,9 @@
  ### 8° Projeto: Quiz
 
  #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Quiz
+
+ <br><br>
+
+ ### 9° Projeto: Arrasta e Solta
+
+ #### link para o projeto: https://salomao-faleta.github.io/Projetos-JS-B7WEB/Arrasta-e-solta
